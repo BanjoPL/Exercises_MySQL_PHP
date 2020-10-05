@@ -1,0 +1,29 @@
+#baner {
+	background-color: rgb(48, 27, 94);
+	color: white;
+	font-size: 120%;
+	text-align: center;
+	height: 80px;
+}
+#panel-lewy {
+	background-color: rgb(127, 118, 158);
+	color: white;
+	height: 500px;
+	width: 25%;
+	float: left;
+}
+#panel-prawy {
+	background-color: rgb(220, 220, 220);
+	color: black;
+	height: 500px;
+	width: 75%;
+	font-size: 110%;
+	float: right;
+}
+footer {
+	background-color: rgb(127, 118, 158);
+	color: white;
+	text-align: center;
+	height: 80px;
+	clear: both;
+}
