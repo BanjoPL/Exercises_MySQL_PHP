@@ -9,7 +9,6 @@ Zadania z egzaminów praktycznych z kwalifikacji <b>EE.09</b> (Programowanie, tw
   <li>dom-weselny (E.14 - 05 - 18.06) [JS]</li>
   <li>filmoteka (E.14 - 01 - 19.01) [PHP-MySQL]</li>
   <li>hurtownia-komputerowa (E.14 - 07 - 19.01) [PHP-MySQL]</li>
-  <li>pogotowie-ratunkowe (EE.09 - 06 - 19.06) [PHP-MySQL]</li>
 </ul>
 
 # Uruchomienie
